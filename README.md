@@ -20,6 +20,6 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 2. PDF version of Jupyter Notebook:
 [assignment2020.pdf](https://github.com/Munster2020/HDIP_CSDA_COMP08050_ASSIGNMENT/blob/main/assignment2020.pdf)
 
-If you have any issues viewing  assignment2020.ipynb in github you can use jupyter Notebook then use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
+If you have any issues viewing  assignment2020.ipynb in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
 
 ---
