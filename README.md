@@ -14,7 +14,7 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 
 ---
 ### Summary
-
+[I'm an inline-style link](https://www.google.com)
 ---
 
 
