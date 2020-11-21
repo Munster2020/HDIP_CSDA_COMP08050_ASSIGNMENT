@@ -14,10 +14,10 @@ There are four distinct tasks to be carried out in your Jupyter notebook.
 
 ---
 ### Solution
-Jupyter Notebook:
+1. Jupyter Notebook:
 [assignment2020.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08050_ASSIGNMENT/blob/c0d9f80527633a119856e9a2dd4b528d0de14204/assignment2020.ipynb)
 
-PDF version of Jupyter Notebook:
+2. PDF version of Jupyter Notebook:
 [assignment2020.pdf](https://github.com/Munster2020/HDIP_CSDA_COMP08050_ASSIGNMENT/blob/main/assignment2020.pdf)
 
 If you have any issues viewing  assignment2020.ipynb in github the copy and paste
